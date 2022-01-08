@@ -453,9 +453,24 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 {
   padding-top: 3rem;
   padding-left: 3rem;
+
 }
+
+.toolsAndContribute
+{
+    padding-top: 3rem;
+}
+
+.specimg
+{
+  margin-top: 3rem;
+  max-width: 45%
+
+}
+
 
 .wimg
 {
-  object-fit: fill;
+  width: 100%
+  object-fit: cover;
 }
